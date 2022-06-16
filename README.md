@@ -8,7 +8,7 @@ There will be no more updates, closed issues, or PR merges for the Vincent proje
 
 #Vincent
 
-[![Travs-CI status](https://travis-ci.org/wrobstory/vincent.png)](https://travis-ci.org/wrobstory/vincent)
+[![Travis-CI status](https://travis-ci.org/wrobstory/vincent.png)](https://travis-ci.org/wrobstory/vincent)
 
 ![Vincent](http://farm9.staticflickr.com/8521/8644902478_0d1513db92_o.jpg)
 
